@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">Software QA Engineer | Manual & Automation Testing | CI/CD Enthusiast</h3>
+<h3 align="center">Software QA Engineer | Manual & Automation Testing | Quality Enthusiast</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=moromaxmo&label=Profile%20views&color=0e75b6&style=flat" alt="moromaxmo" /> 
